@@ -83,6 +83,45 @@
     
 }
 
+#section-2{
+    margin: 7rem 0;
+}
+
+
+#section-2-text{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 8rem;
+
+}
+
+#section-2-text h2{
+    font-size: 2rem;
+    align-items: center;
+
+}
+#section-2-text button{
+    border: solid black 2px;
+    padding: 0.5rem 3rem;
+    background-color: transparent;
+
+}
+
+#first-row-img{
+    display: flex;
+    padding: 0 8rem;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+#second-row-img{
+    display: flex;
+    padding: 0 8rem;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}
 
 
 
