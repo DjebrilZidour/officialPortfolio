@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(194, 101, 252);
+    align-items: center;
+    padding: 16px 150px;
+}
+#main ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+ 
+}
+
+#main li{
+    margin: 0 12px;
+    color: white;
+}
