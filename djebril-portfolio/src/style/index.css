@@ -8,3 +8,10 @@ body{
     
       
 }
+
+.home{
+        background-image: url("https://i.ibb.co/XW5J2jG/background-Portfolio.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+}
